@@ -31,5 +31,16 @@
     "stepCount": 4,
     "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-zeina-mohamed-abdel-wahab.practice",
     "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "sonora-longa-tanbouri",
+    "title": "Sonora Longa (Tanbouri)",
+    "description": "",
+    "tags": [
+      "Sonora"
+    ],
+    "stepCount": 4,
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-tanbouri.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
