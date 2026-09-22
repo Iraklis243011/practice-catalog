@@ -18,5 +18,18 @@
     "stepCount": 4,
     "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-kevser.practice",
     "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "sonora-zeina-mohamed-abdel-wahab",
+    "title": "Sonora Zeina (Mohamed Abdel Wahab)",
+    "description": "",
+    "tags": [
+      "Εύα",
+      "Αφροδίτη",
+      "Ειρήνη"
+    ],
+    "stepCount": 4,
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-zeina-mohamed-abdel-wahab.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
