@@ -7,5 +7,16 @@
     "stepCount": 5,
     "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
     "thumbnailEmoji": "🎵"
+  },
+  {
+    "id": "sonora-longa-kevser",
+    "title": "Sonora Longa (Kevser)",
+    "description": "",
+    "tags": [
+      "Sonora Orchestra"
+    ],
+    "stepCount": 4,
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-kevser.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
