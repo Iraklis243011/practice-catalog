@@ -2,23 +2,34 @@
   {
     "stepCount" : 5,
     "title" : "Enigma (Minuni)",
-    "thumbnailEmoji" : "🎵",
     "id" : "enigma-minuni",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
+    "thumbnailEmoji" : "🎵",
+    "description" : "",
     "tags" : [
 
-    ],
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
-    "description" : ""
+    ]
   },
   {
     "stepCount" : 4,
     "title" : "Take Five",
-    "thumbnailEmoji" : "🎵",
     "id" : "take-five",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/take-five.practice",
+    "thumbnailEmoji" : "🎵",
+    "description" : "",
     "tags" : [
 
-    ],
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/take-five.practice",
-    "description" : ""
+    ]
+  },
+  {
+    "stepCount" : 3,
+    "title" : "Ρούμπα σε λαϊκό μοτίβο",
+    "id" : "roympa-se-laiko-motivo",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/roympa-se-laiko-motivo.practice",
+    "thumbnailEmoji" : "🎵",
+    "description" : "",
+    "tags" : [
+
+    ]
   }
 ]
