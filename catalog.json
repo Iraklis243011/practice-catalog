@@ -1,48 +1,37 @@
 [
   {
-    "description" : "",
-    "tags" : [
-      "Sonora Orchestra"
-    ],
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-kevser.practice",
-    "title" : "Sonora Longa (Kevser)",
+    "id" : "sonora-zeina-mohamed-abdel-wahab",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-zeina-mohamed-abdel-wahab.practice",
+    "title" : "Sonora Zeina (Mohamed Abdel Wahab)",
     "stepCount" : 4,
-    "id" : "sonora-longa-kevser",
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
       "Εύα",
       "Αφροδίτη",
       "Ειρήνη"
     ],
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-zeina-mohamed-abdel-wahab.practice",
-    "title" : "Sonora Zeina (Mohamed Abdel Wahab)",
-    "stepCount" : 4,
-    "id" : "sonora-zeina-mohamed-abdel-wahab",
-    "thumbnailEmoji" : "🎵🔒"
+    "description" : ""
   },
   {
-    "description" : "",
-    "tags" : [
-      "Sonora"
-    ],
+    "id" : "sonora-longa-tanbouri",
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-tanbouri.practice",
     "title" : "Sonora Longa (Tanbouri)",
     "stepCount" : 4,
-    "id" : "sonora-longa-tanbouri",
-    "thumbnailEmoji" : "🎵🔒"
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
+      "Sonora"
+    ],
+    "description" : ""
   },
   {
-    "description" : "",
-    "tags" : [
-
-    ],
+    "id" : "take-five",
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/take-five.practice",
     "title" : "Take Five",
     "stepCount" : 4,
-    "id" : "take-five",
-    "thumbnailEmoji" : "🎵"
+    "thumbnailEmoji" : "🎵",
+    "tags" : [
+
+    ],
+    "description" : ""
   }
 ]
