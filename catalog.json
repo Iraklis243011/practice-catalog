@@ -1,59 +1,48 @@
 [
   {
     "description" : "",
-    "title" : "Enigma (Minuni)",
-    "stepCount" : 5,
-    "id" : "enigma-minuni",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
-    "tags" : [
-
-    ],
-    "thumbnailEmoji" : "🎵"
-  },
-  {
-    "description" : "",
-    "title" : "Sonora Longa (Kevser)",
-    "stepCount" : 4,
-    "id" : "sonora-longa-kevser",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-kevser.practice",
     "tags" : [
       "Sonora Orchestra"
     ],
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-kevser.practice",
+    "title" : "Sonora Longa (Kevser)",
+    "stepCount" : 4,
+    "id" : "sonora-longa-kevser",
     "thumbnailEmoji" : "🎵🔒"
   },
   {
     "description" : "",
-    "title" : "Sonora Zeina (Mohamed Abdel Wahab)",
-    "stepCount" : 4,
-    "id" : "sonora-zeina-mohamed-abdel-wahab",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-zeina-mohamed-abdel-wahab.practice",
     "tags" : [
       "Εύα",
       "Αφροδίτη",
       "Ειρήνη"
     ],
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-zeina-mohamed-abdel-wahab.practice",
+    "title" : "Sonora Zeina (Mohamed Abdel Wahab)",
+    "stepCount" : 4,
+    "id" : "sonora-zeina-mohamed-abdel-wahab",
     "thumbnailEmoji" : "🎵🔒"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
     "tags" : [
       "Sonora"
     ],
-    "id" : "sonora-longa-tanbouri",
-    "title" : "Sonora Longa (Tanbouri)",
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/sonora-longa-tanbouri.practice",
-    "stepCount" : 4
+    "title" : "Sonora Longa (Tanbouri)",
+    "stepCount" : 4,
+    "id" : "sonora-longa-tanbouri",
+    "thumbnailEmoji" : "🎵🔒"
   },
   {
-    "thumbnailEmoji" : "🎵",
     "description" : "",
     "tags" : [
 
     ],
-    "id" : "take-five",
-    "title" : "Take Five",
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/take-five.practice",
-    "stepCount" : 4
+    "title" : "Take Five",
+    "stepCount" : 4,
+    "id" : "take-five",
+    "thumbnailEmoji" : "🎵"
   }
 ]
