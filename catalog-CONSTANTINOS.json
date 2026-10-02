@@ -1,38 +1,60 @@
 [
   {
-    "stepCount": 5,
-    "title": "Enigma (Minuni)",
-    "id": "enigma-minuni",
-    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
-    "thumbnailEmoji": "🎵",
-    "description": "",
-    "tags": []
+    "thumbnailEmoji" : "🎵",
+    "id" : "enigma-minuni",
+    "description" : "",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
+    "tags" : [
+
+    ],
+    "stepCount" : 5,
+    "title" : "Enigma (Minuni)"
   },
   {
-    "stepCount": 4,
-    "title": "Take Five",
-    "id": "take-five",
-    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/take-five.practice",
-    "thumbnailEmoji": "🎵",
-    "description": "",
-    "tags": []
+    "thumbnailEmoji" : "🎵",
+    "id" : "take-five",
+    "description" : "",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/take-five.practice",
+    "tags" : [
+
+    ],
+    "stepCount" : 4,
+    "title" : "Take Five"
   },
   {
-    "stepCount": 3,
-    "title": "Ρούμπα σε λαϊκό μοτίβο",
-    "id": "roympa-se-laiko-motivo",
-    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/roympa-se-laiko-motivo.practice",
-    "thumbnailEmoji": "🎵",
-    "description": "",
-    "tags": []
+    "thumbnailEmoji" : "🎵",
+    "id" : "roympa-se-laiko-motivo",
+    "description" : "",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/roympa-se-laiko-motivo.practice",
+    "tags" : [
+
+    ],
+    "stepCount" : 3,
+    "title" : "Ρούμπα σε λαϊκό μοτίβο"
   },
   {
-    "id": "60-patterns-for-montuno",
-    "title": "60 Patterns for Montuno",
-    "description": "",
-    "tags": [],
-    "stepCount": 1,
-    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/60-patterns-for-montuno.practice",
-    "thumbnailEmoji": "🎵"
+    "thumbnailEmoji" : "🎵",
+    "id" : "60-patterns-for-montuno",
+    "description" : "",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/60-patterns-for-montuno.practice",
+    "tags" : [
+
+    ],
+    "stepCount" : 1,
+    "title" : "60 Patterns for Montuno"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "zeina-mohamed-abdel-wahab",
+    "description" : "2026-27",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/zeina-mohamed-abdel-wahab.practice",
+    "tags" : [
+      "Εύα",
+      "Αφροδίτη",
+      "Ειρήνη",
+      "Sonora Orchestra"
+    ],
+    "stepCount" : 4,
+    "title" : "Zeina (Mohamed Abdel Wahab)"
   }
 ]
