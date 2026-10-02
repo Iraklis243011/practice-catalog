@@ -1,13 +1,24 @@
 [
   {
-    "id": "vou-vivendo",
-    "title": "VOU VIVENDO",
-    "description": "",
-    "tags": [
+    "tags" : [
       "Αντώνης"
     ],
-    "stepCount": 4,
-    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/vou-vivendo.practice",
-    "thumbnailEmoji": "🎵"
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/vou-vivendo.practice",
+    "description" : "",
+    "thumbnailEmoji" : "🎵",
+    "title" : "VOU VIVENDO",
+    "id" : "vou-vivendo",
+    "stepCount" : 4
+  },
+  {
+    "tags" : [
+      "Sonora Orchestra"
+    ],
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-kevser.practice",
+    "description" : "2026-27",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Longa (Kevser)",
+    "id" : "longa-kevser",
+    "stepCount" : 4
   }
 ]
