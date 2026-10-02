@@ -1,35 +1,49 @@
 [
   {
-    "title" : "VOU VIVENDO",
-    "id" : "vou-vivendo",
-    "thumbnailEmoji" : "🎵",
-    "stepCount" : 4,
     "tags" : [
       "Αντώνης"
     ],
     "description" : "",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/vou-vivendo.practice"
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/vou-vivendo.practice",
+    "id" : "vou-vivendo",
+    "stepCount" : 4,
+    "thumbnailEmoji" : "🎵",
+    "title" : "VOU VIVENDO"
   },
   {
-    "title" : "Longa (Kevser)",
-    "id" : "longa-kevser",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 4,
     "tags" : [
       "Sonora Orchestra"
     ],
     "description" : "2026-27",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-kevser.practice"
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-kevser.practice",
+    "id" : "longa-kevser",
+    "stepCount" : 4,
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Longa (Kevser)"
   },
   {
-    "title" : "Longa (Tanbouri)",
-    "id" : "longa-tanbouri",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 4,
     "tags" : [
 
     ],
     "description" : "2026-27",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-tanbouri.practice"
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-tanbouri.practice",
+    "id" : "longa-tanbouri",
+    "stepCount" : 4,
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Longa (Tanbouri)"
+  },
+  {
+    "tags" : [
+      "Εύα",
+      "Αφροδίτη",
+      "Ειρήνη",
+      "Sonora Orchestra"
+    ],
+    "description" : "2026-27",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/zeina-mohamed-abdel-wahab.practice",
+    "id" : "zeina-mohamed-abdel-wahab",
+    "stepCount" : 4,
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Zeina (Mohamed Abdel Wahab)"
   }
 ]
