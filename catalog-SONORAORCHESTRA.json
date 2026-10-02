@@ -1,38 +1,42 @@
 [
   {
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/vou-vivendo.practice",
+    "id" : "vou-vivendo",
+    "thumbnailEmoji" : "🎵",
     "tags" : [
       "Αντώνης"
     ],
     "description" : "",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/vou-vivendo.practice",
-    "id" : "vou-vivendo",
-    "stepCount" : 4,
-    "thumbnailEmoji" : "🎵",
     "title" : "VOU VIVENDO"
   },
   {
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-kevser.practice",
+    "id" : "longa-kevser",
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
       "Sonora Orchestra"
     ],
     "description" : "2026-27",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-kevser.practice",
-    "id" : "longa-kevser",
-    "stepCount" : 4,
-    "thumbnailEmoji" : "🎵🔒",
     "title" : "Longa (Kevser)"
   },
   {
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-tanbouri.practice",
+    "id" : "longa-tanbouri",
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
 
     ],
     "description" : "2026-27",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-tanbouri.practice",
-    "id" : "longa-tanbouri",
-    "stepCount" : 4,
-    "thumbnailEmoji" : "🎵🔒",
     "title" : "Longa (Tanbouri)"
   },
   {
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/zeina-mohamed-abdel-wahab.practice",
+    "id" : "zeina-mohamed-abdel-wahab",
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
       "Εύα",
       "Αφροδίτη",
@@ -40,10 +44,17 @@
       "Sonora Orchestra"
     ],
     "description" : "2026-27",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/zeina-mohamed-abdel-wahab.practice",
-    "id" : "zeina-mohamed-abdel-wahab",
-    "stepCount" : 4,
-    "thumbnailEmoji" : "🎵🔒",
     "title" : "Zeina (Mohamed Abdel Wahab)"
+  },
+  {
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
+    "id" : "enigma-minuni",
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
+
+    ],
+    "description" : "2026-27",
+    "title" : "Enigma (Minuni)"
   }
 ]
