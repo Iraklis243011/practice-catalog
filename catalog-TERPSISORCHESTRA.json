@@ -1,24 +1,24 @@
 [
   {
-    "thumbnailEmoji" : "🎵🔒",
+    "description" : "2026-27",
     "stepCount" : 5,
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Τα Κβάντα Acrd & Pno",
+    "id" : "ta-kvanta-acrd-pno",
     "tags" : [
       "TerpsisOrchesta"
-    ],
-    "id" : "ta-kvanta-acrd-pno",
-    "description" : "2026-27",
-    "title" : "Τα Κβάντα Acrd & Pno"
+    ]
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
+    "description" : "2026-27",
     "stepCount" : 5,
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno-in-em.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Τα Κβάντα Acrd & Pno in Em",
+    "id" : "ta-kvanta-acrd-pno-in-em",
     "tags" : [
 
-    ],
-    "id" : "ta-kvanta-acrd-pno-in-em",
-    "description" : "2026-27",
-    "title" : "Τα Κβάντα Acrd & Pno in Em"
+    ]
   }
 ]
