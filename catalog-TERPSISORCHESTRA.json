@@ -9,5 +9,14 @@
     ],
     "id": "ta-kvanta-acrd-pno",
     "title": "Τα Κβάντα Acrd & Pno"
+  },
+  {
+    "id": "ta-kvanta-acrd-pno-in-em",
+    "title": "Τα Κβάντα Acrd & Pno in Em",
+    "description": "2026-27",
+    "tags": [],
+    "stepCount": 5,
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno-in-em.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
