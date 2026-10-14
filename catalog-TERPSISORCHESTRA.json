@@ -1,24 +1,35 @@
 [
   {
-    "description" : "2026-27",
-    "stepCount" : 5,
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno.practice",
     "thumbnailEmoji" : "🎵🔒",
-    "title" : "Τα Κβάντα Acrd & Pno",
     "id" : "ta-kvanta-acrd-pno",
+    "title" : "Τα Κβάντα Acrd & Pno",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno.practice",
+    "stepCount" : 5,
     "tags" : [
       "TerpsisOrchesta"
-    ]
+    ],
+    "description" : "2026-27"
   },
   {
-    "description" : "2026-27",
-    "stepCount" : 5,
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno-in-em.practice",
     "thumbnailEmoji" : "🎵🔒",
-    "title" : "Τα Κβάντα Acrd & Pno in Em",
     "id" : "ta-kvanta-acrd-pno-in-em",
+    "title" : "Τα Κβάντα Acrd & Pno in Em",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno-in-em.practice",
+    "stepCount" : 5,
     "tags" : [
 
-    ]
+    ],
+    "description" : "2026-27"
+  },
+  {
+    "id" : "epilogos-mpakoylis",
+    "title" : "Επίλογος (Μπάκουλης)",
+    "stepCount" : 5,
+    "tags" : [
+
+    ],
+    "thumbnailEmoji" : "🎵🔒",
+    "description" : "2026-27",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/epilogos-mpakoylis.practice"
   }
 ]
