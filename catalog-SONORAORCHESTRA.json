@@ -1,49 +1,60 @@
 [
   {
-    "description" : "2026-27",
-    "stepCount" : 4,
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-kevser.practice",
-    "id" : "longa-kevser",
-    "title" : "Longa (Kevser)",
     "tags" : [
       "Sonora Orchestra"
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Longa (Kevser)",
+    "id" : "longa-kevser",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-kevser.practice",
+    "description" : "2026-27",
+    "stepCount" : 4
   },
   {
-    "description" : "2026-27",
-    "stepCount" : 4,
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-tanbouri.practice",
-    "id" : "longa-tanbouri",
-    "title" : "Longa (Tanbouri)",
     "tags" : [
 
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Longa (Tanbouri)",
+    "id" : "longa-tanbouri",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/longa-tanbouri.practice",
+    "description" : "2026-27",
+    "stepCount" : 4
   },
   {
-    "description" : "2026-27",
-    "stepCount" : 4,
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/zeina-mohamed-abdel-wahab.practice",
-    "id" : "zeina-mohamed-abdel-wahab",
-    "title" : "Zeina (Mohamed Abdel Wahab)",
     "tags" : [
       "Εύα",
       "Αφροδίτη",
       "Ειρήνη",
       "Sonora Orchestra"
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Zeina (Mohamed Abdel Wahab)",
+    "id" : "zeina-mohamed-abdel-wahab",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/zeina-mohamed-abdel-wahab.practice",
+    "description" : "2026-27",
+    "stepCount" : 4
   },
   {
-    "description" : "2026-27",
-    "stepCount" : 4,
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice",
-    "id" : "enigma-minuni",
     "title" : "Enigma (Minuni)",
+    "id" : "enigma-minuni",
+    "description" : "2026-27",
     "tags" : [
 
     ],
-    "thumbnailEmoji" : "🎵🔒"
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/enigma-minuni.practice"
+  },
+  {
+    "title" : "FLAIRCK Andante Poco a Poco Presto ma Non Troppo",
+    "id" : "flairck-andante-poco-a-poco-presto-ma-non-troppo",
+    "description" : "2026/27",
+    "tags" : [
+
+    ],
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 5,
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/flairck-andante-poco-a-poco-presto-ma-non-troppo.practice"
   }
 ]
