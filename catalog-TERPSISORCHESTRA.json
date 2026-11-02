@@ -1,46 +1,57 @@
 [
   {
-    "id" : "ta-kvanta-acrd-pno",
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno.practice",
+    "stepCount" : 5,
+    "description" : "2026-27",
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
       "TerpsisOrchesta"
     ],
-    "description" : "2026-27",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno.practice",
     "title" : "Τα Κβάντα Acrd & Pno",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 5
+    "id" : "ta-kvanta-acrd-pno"
   },
   {
-    "id" : "ta-kvanta-acrd-pno-in-em",
-    "tags" : [
-
-    ],
-    "description" : "2026-27",
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno-in-em.practice",
+    "stepCount" : 5,
+    "description" : "2026-27",
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
+
+    ],
     "title" : "Τα Κβάντα Acrd & Pno in Em",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 5
+    "id" : "ta-kvanta-acrd-pno-in-em"
   },
   {
-    "id" : "epilogos-mpakoylis",
-    "tags" : [
-
-    ],
-    "description" : "2026-27",
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/epilogos-mpakoylis.practice",
-    "title" : "Επίλογος (Μπάκουλης)",
+    "stepCount" : 5,
+    "description" : "2026-27",
     "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 5
-  },
-  {
-    "id" : "takoynia-gia-karfia-ntanos",
     "tags" : [
 
     ],
-    "description" : "2026-27",
+    "title" : "Επίλογος (Μπάκουλης)",
+    "id" : "epilogos-mpakoylis"
+  },
+  {
     "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/takoynia-gia-karfia-ntanos.practice",
-    "title" : "Τακούνια για καρφιά (Ντάνος)",
+    "stepCount" : 3,
+    "description" : "2026-27",
     "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 3
+    "tags" : [
+
+    ],
+    "title" : "Τακούνια για καρφιά (Ντάνος)",
+    "id" : "takoynia-gia-karfia-ntanos"
+  },
+  {
+    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/gianni-moy-ntanos.practice",
+    "stepCount" : 4,
+    "description" : "2026-27",
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
+
+    ],
+    "title" : "Γιάννη μου (Ντάνος)",
+    "id" : "gianni-moy-ntanos"
   }
 ]
