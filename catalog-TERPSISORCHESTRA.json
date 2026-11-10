@@ -1,101 +1,76 @@
 [
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 5,
-    "tags" : [
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 5,
+    "tags": [
       "TerpsisOrchesta"
     ],
-    "id" : "ta-kvanta-acrd-pno",
-    "description" : "2026-27",
-    "title" : "Τα Κβάντα Acrd & Pno",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno.practice"
+    "id": "ta-kvanta-acrd-pno",
+    "description": "2026-27",
+    "title": "Τα Κβάντα Acrd & Pno",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno.practice"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 5,
-    "tags" : [
-
-    ],
-    "id" : "ta-kvanta-acrd-pno-in-em",
-    "description" : "2026-27",
-    "title" : "Τα Κβάντα Acrd & Pno in Em",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno-in-em.practice"
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 5,
+    "tags": [],
+    "id": "ta-kvanta-acrd-pno-in-em",
+    "description": "2026-27",
+    "title": "Τα Κβάντα Acrd & Pno in Em",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/ta-kvanta-acrd-pno-in-em.practice"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 5,
-    "tags" : [
-
-    ],
-    "id" : "epilogos-mpakoylis",
-    "description" : "2026-27",
-    "title" : "Επίλογος (Μπάκουλης)",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/epilogos-mpakoylis.practice"
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 5,
+    "tags": [],
+    "id": "epilogos-mpakoylis",
+    "description": "2026-27",
+    "title": "Επίλογος (Μπάκουλης)",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/epilogos-mpakoylis.practice"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 3,
-    "tags" : [
-
-    ],
-    "id" : "takoynia-gia-karfia-ntanos",
-    "description" : "2026-27",
-    "title" : "Τακούνια για καρφιά (Ντάνος)",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/takoynia-gia-karfia-ntanos.practice"
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 3,
+    "tags": [],
+    "id": "takoynia-gia-karfia-ntanos",
+    "description": "2026-27",
+    "title": "Τακούνια για καρφιά (Ντάνος)",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/takoynia-gia-karfia-ntanos.practice"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 4,
-    "tags" : [
-
-    ],
-    "id" : "gianni-moy-ntanos",
-    "description" : "2026-27",
-    "title" : "Γιάννη μου (Ντάνος)",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/gianni-moy-ntanos.practice"
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 4,
+    "tags": [],
+    "id": "dermatine-oyrane-mpakoylis",
+    "description": "2026-27",
+    "title": "Δερμάτινε ουρανέ (Μπάκουλης)",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/dermatine-oyrane-mpakoylis.practice"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 4,
-    "tags" : [
-
-    ],
-    "id" : "dermatine-oyrane-mpakoylis",
-    "description" : "2026-27",
-    "title" : "Δερμάτινε ουρανέ (Μπάκουλης)",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/dermatine-oyrane-mpakoylis.practice"
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 4,
+    "tags": [],
+    "id": "gianni-moy-ntantos",
+    "description": "2026-27",
+    "title": "Γιάννη μου (Ντάντος)",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/gianni-moy-ntantos.practice"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 4,
-    "tags" : [
-
-    ],
-    "id" : "gianni-moy-ntantos",
-    "description" : "2026-27",
-    "title" : "Γιάννη μου (Ντάντος)",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/gianni-moy-ntantos.practice"
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 3,
+    "tags": [],
+    "id": "takoynia-gia-karfia-ntantos",
+    "description": "2026-27",
+    "title": "Τακούνια για καρφιά (Ντάντος)",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/takoynia-gia-karfia-ntantos.practice"
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 3,
-    "tags" : [
-
-    ],
-    "id" : "takoynia-gia-karfia-ntantos",
-    "description" : "2026-27",
-    "title" : "Τακούνια για καρφιά (Ντάντος)",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/takoynia-gia-karfia-ntantos.practice"
-  },
-  {
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 7,
-    "tags" : [
-
-    ],
-    "id" : "to-kapileio-chainides",
-    "description" : "2026-27",
-    "title" : "Το καπηλειό (Χαΐνηδες)",
-    "zipUrl" : "https://github.com/Iraklis243011/practice-plans/releases/download/packages/to-kapileio-chainides.practice"
+    "thumbnailEmoji": "🎵🔒",
+    "stepCount": 7,
+    "tags": [],
+    "id": "to-kapileio-chainides",
+    "description": "2026-27",
+    "title": "Το καπηλειό (Χαΐνηδες)",
+    "zipUrl": "https://github.com/Iraklis243011/practice-plans/releases/download/packages/to-kapileio-chainides.practice"
   }
 ]
